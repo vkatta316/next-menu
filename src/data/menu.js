@@ -5,7 +5,7 @@ const MENU = [
         image:'/images/Chicken-Boneless.jpg',
         Category: 'Biryanis',
         Label: 'Hot',
-        Price: '18$',
+        Price: '18dollars',
         description:'Chicken breast cooked in onion-tomato sauce and finished with cream and mild Indian spices',
     },
     {
@@ -14,7 +14,7 @@ const MENU = [
         image:'/images/Butter-Chicken-Curry.jpg',
         Category: 'Biryanis',
         Label: 'Hot',
-        Price: '22$',
+        Price: '22dollars',
         description:'Fragrant basmati rice and chicken leg quarters that are marinated in yogurt and Indian spice layered and cooked in a large covered pot.',
     },
     {
@@ -23,7 +23,7 @@ const MENU = [
         image:'/images/Gongura-Mutton.jpg',
         Category: 'Appetizer',
         Label: 'Hot',
-        Price: '20$',
+        Price: '20dollars',
         description:'Gongura leaves and goat cooked in onion-tomato sauce finished with spices.',
     },
     {
@@ -32,7 +32,7 @@ const MENU = [
         image:'/images/Chicken-Wings.jpg',
         Category: 'Starters',
         Label: 'Hot',
-        Price: '16$',
+        Price: '16dollars',
         description:'Chicken pieces marinated in homemade spices and pan fried.',
     },
 ]

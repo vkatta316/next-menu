@@ -1,4 +1,3 @@
-
 import menu from "@/data/menu.js";
 import Image from 'next/image'
 
@@ -8,7 +7,7 @@ export default function Home() {
 
   return (
     <>
-      <MenuItems menu ={menu}/>
+      <MenuItems/>
     </>
   )
 }
