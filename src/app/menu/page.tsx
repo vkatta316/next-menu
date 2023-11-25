@@ -1,11 +1,14 @@
 
 import menu from "@/data/menu.js";
+import Image from 'next/image'
 
+import { MenuItems } from "@/components/menu/MenuItems";
 
+export default function Home() {
 
-export default function Menu() {
-    return (
-     <div>Hotem Menu</div>
-    )
-  }
-  
+  return (
+    <>
+      <MenuItems/>
+    </>
+  )
+}
