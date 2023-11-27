@@ -1,4 +1,6 @@
+
 import menu from "@/data/menu.js";
+
 
 
 export async function delay(ms) {
@@ -7,7 +9,9 @@ export async function delay(ms) {
     })
 }
 
+
 export function getMenu() {
+    
     const items = menu.map(item =>{
         item.slug =item.Price;
     })

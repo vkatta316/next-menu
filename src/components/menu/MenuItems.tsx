@@ -28,7 +28,7 @@ export function MenuItems(){
                                 alt={item.name} 
                             />
                         </div>
-                )       <div className="flex-1 p-4 space-y-2 flex flex-col">
+                        <div className="flex-1 p-4 space-y-2 flex flex-col">
                              <h3 className="text-sm font-medium text-gray-900"> 
                              <Link href={`/menu/${item.slug}`}>
                                 <span aria-hidden="true" className="absolute inset-0" />
